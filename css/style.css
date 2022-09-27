@@ -210,7 +210,7 @@ img{
   height: 250px;
   background-image: url(../img/mv.jpg);
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center center;
   background-size: cover;
 }
 
