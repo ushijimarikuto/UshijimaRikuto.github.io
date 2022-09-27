@@ -153,6 +153,7 @@ img{
 
 .header.active {
   background-color: #8d9986;
+  /*background-color: #ffffff;*/
 }
 
 .header-inner {
@@ -171,7 +172,7 @@ img{
 }
 
 .header-logo a {
-  color: #000000;
+  color: black;
 }
 
 .header-nav-list {
@@ -187,7 +188,7 @@ img{
   font-size: 13px;
   padding: 5px 0;
   letter-spacing: .1em;
-  color: #000000;
+  color: black;
 }
 
 .header-nav-item a:hover {
